@@ -1,0 +1,17 @@
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\bin\Debug\LinkedinClient.exe.config
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient.exe
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient.pdb
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\MainWindow.g.cs
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\App.g.cs
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient_MarkupCompile.cache
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient_MarkupCompile.lref
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\bin\Debug\LinkedinClient.exe
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\bin\Debug\LinkedinClient.pdb
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\MainWindow.baml
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient.g.resources
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\LinkedinOauth WcfService\LinkedinClient\obj\Debug\LinkedinClient.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\TA 2\DONE\LinkedinOauth WcfServiceDONE\LinkedinClient\bin\Debug\LinkedinClient.exe.config
+C:\Users\Shazwani\Desktop\TA 2\DONE\LinkedinOauth WcfServiceDONE\LinkedinClient\obj\Debug\LinkedinClient.exe
+C:\Users\Shazwani\Desktop\TA 2\DONE\LinkedinOauth WcfServiceDONE\LinkedinClient\obj\Debug\LinkedinClient.pdb

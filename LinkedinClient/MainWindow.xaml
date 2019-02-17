@@ -1,0 +1,17 @@
+﻿<Window x:Class="LinkedinClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LinkedinClient"
+        mc:Ignorable="d"
+        Title="LinkedIn Profile" Height="497.486" Width="420">
+    <Grid>
+        <TextBox x:Name="summary" HorizontalAlignment="Left" Height="109" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="392"/>
+        <Button x:Name="btnGetXML" Content="Get XML" HorizontalAlignment="Left" Margin="301,124,0,0" VerticalAlignment="Top" Width="101" Click="btnGetProfile_Click"/>
+        <Label x:Name="label" Content="LinkedIn Profile" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="profileBox" HorizontalAlignment="Left" Height="205" Margin="10,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="392"/>
+        <Button x:Name="button" Content="Get Profile" HorizontalAlignment="Left" Margin="301,423,0,0" VerticalAlignment="Top" Width="100" Click="button_Click"/>
+
+    </Grid>
+</Window>
