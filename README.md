@@ -11,7 +11,9 @@ Features LinkedIn profile and status update using POST method. Windows Communica
                           private string _consumerSecret = "YOUR CONSUMER SECRET";
                           public const string CALLBACK = "YOUR URL CALLBACK";
 
+# Windows Communication Foundation (WCF)
 
+Run the Client side code to get the user profile remotely when service is hosted.
 
 
 
